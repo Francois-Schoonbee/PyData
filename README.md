@@ -1,1 +1,2 @@
-All exercises for Python for Data Science
+This repository contains all the exercises for the module Python for Data Science.
+
