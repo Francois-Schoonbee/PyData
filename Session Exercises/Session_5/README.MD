@@ -10,7 +10,7 @@ In this session, we cover the foundations of **Machine Learning (ML)**, focusing
 4. **Model Evaluation**: Techniques for evaluating model performance using metrics like accuracy, precision, recall, and F1-score.
 
 ## Requirements
-To complete this session, **download the `Session_5.zip` file**, which includes all the necessary data annotations. Extract the zip file in the same directory as the notebook to ensure that all data files load without issues.
+To complete this session, **download the `Session_4.zip` file**, which includes all the necessary data annotations. Extract the zip file in the same directory as the notebook to ensure that all data files load without issues.
 
 ### Libraries Needed
 - **pandas**
