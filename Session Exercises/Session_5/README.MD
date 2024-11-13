@@ -1,4 +1,4 @@
-# Session 5 - Data Science and Machine Learning Foundations
+# Session 5 
 
 ## Overview
 In this session we covered using diffrent formats (json, pickle, and parquet), the Re library and the Time and Datetime libraries
