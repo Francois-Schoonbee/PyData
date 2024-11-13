@@ -6,7 +6,6 @@ In this session we learned how to use the Pandas package to load and explore dat
 ## Required packages (with code to install if neccesary)
 - Pandas (pip install pandas)
 - Numpy (pip install numpy)
-- Datetime (pip install Datetime)
 
 ## Datasets
 Make sure to download the netflix_titles and train_and_test2 csv files and that they are in the correct working directory fot eh code to work properly.
