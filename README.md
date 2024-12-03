@@ -23,4 +23,14 @@ This is a list of all the packages used in this repository
 - NumPy
 - matplotlib
 - scikit-learn
+- seaborn
 
+### Install
+```
+pip install pandas numpy matplotlib scikit-learn seaborn
+```
+### Update
+
+```
+pip install --upgrade pandas numpy matplotlib scikit-learn seaborn
+```
