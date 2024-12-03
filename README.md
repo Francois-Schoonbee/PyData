@@ -13,6 +13,8 @@ In each session we cover a topic, illustrate some simple examples and then do an
 - Session 4: Data Annotation and Preprocessing
 - Session 5: Different formats and basic libraries
 - Session 6: Pandas package
+- Session 7: Lambdas and Map functions
+- Session 8: Plotting using Matplotlib and Seaborn
 
 ## Requirements
 
